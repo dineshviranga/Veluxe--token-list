@@ -1,0 +1,22 @@
+{
+  "name": "Veluxe Token List",
+  "logoURI": "https://github.com/dineshviranga/Veluxe--token-list/blob/463402a2af9e04139abea2263dd6dadbd05cc019/Assets/Etherium/0x1f2554684ADB90FD7abCB27D66c54ee8EEc74bB8/IMG_1800.png",
+  "keywords": ["veluxe", "luxury", "vlx"],
+  "timestamp": "2025-11-13T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1f2554684ADB90FD7abCB27D66c54ee8EEc74bB8",
+      "name": "Veluxe Token",
+      "symbol": "VLX",
+      "decimals": 18,
+      "logoURI": "https://github.com/dineshviranga/Veluxe--token-list/blob/463402a2af9e04139abea2263dd6dadbd05cc019/Assets/Etherium/0x1f2554684ADB90FD7abCB27D66c54ee8EEc74bB8/IMG_1800.png",
+      "extensions": {
+        "website": "https://veluxevlx.io",
+        "twitter": "https://x.com/veluxev?s=21",
+        "telegram": "https://t.me/veluxe_vlx"
+      }
+    }
+  ]
+}
